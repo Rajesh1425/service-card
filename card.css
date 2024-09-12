@@ -1,0 +1,52 @@
+body{
+    background-color: #ffffff;
+}
+.h{
+  text-align: center;
+}
+.card1{
+    height: 200px;
+    width: 300px;
+   
+    color: black;
+    text-align: center;
+    
+    border-radius: 12px;
+    padding: 10px;
+    box-shadow: 0px 0px 20px -2px black;
+}
+.con{
+    display: flex;
+    justify-content: space-around;
+padding: 20px;
+  
+}
+h1{
+    font-weight: 1033px;
+   text-decoration: underline;
+    }
+    a{
+      padding: 10px;
+    background-color: orange;
+    color:black;
+        border-radius: 15px;
+        text-decoration: none;
+     
+        
+        }
+        i{
+          position: relative;
+           top:10px;
+            background-color: orange;
+            height: 40px;
+            width:40px;
+            border-radius: 50%;
+           display: flex;
+           justify-content: center;
+           align-content: center;
+        }
+
+a:hover{
+    background-color: black;
+    color:white;
+}
